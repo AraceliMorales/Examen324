@@ -1,0 +1,40 @@
+		h1 {
+			color:white; 
+			font-size:40px;
+		}
+		h3 {
+			color:Black; 
+		}
+		p {
+			color: rgb(31,32,33);
+		}
+		.p1 {
+			text-align:right;
+		} 
+		#p1 {
+			text-align:center;
+		}
+		#cabecera {
+			background-color:#00299a;
+			text-align:center;
+			width:100%;
+			float:left;
+		}
+		#menu {
+			background-color:#82c4ff;
+			text-align:left;
+			width:25%;
+			float:left;
+		}
+		#contenido {
+			background-color:white;
+			width:75%;
+			float:left;
+		}
+        #pie {
+            color: aqua;
+			background-color:#1976af;
+            text-align:center;
+			width:100%;
+			float:left;
+		}
